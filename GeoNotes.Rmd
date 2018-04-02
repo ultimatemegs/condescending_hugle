@@ -18,3 +18,13 @@ sp objects use S4 conventions w/ slots
 sf objects are a df w/ specific str that incl. a geometry column
 sf allows for mixed objects --> points + lines + polygons
 Uses Well Known Text (WKT) & Well Known Binary (WKB) encoding 
+
+## GeoTasks to get done this week: 
+    # rejigging the extent
+    # turning the raster into points and then pulling from sesync
+    # email david about the original datasets 
+    # check all the data for SBS for Tiela
+    # do a 
+    
+# 
+    
