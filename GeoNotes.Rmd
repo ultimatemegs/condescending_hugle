@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## GeoNotes
 
+Webpage: sesync.us/geospatial
+
 Grid and raster can manipulate images  
 bbox - this is like the extent for vectors
 CRS - reference system
@@ -24,7 +26,16 @@ Uses Well Known Text (WKT) & Well Known Binary (WKB) encoding
     # turning the raster into points and then pulling from sesync
     # email david about the original datasets 
     # check all the data for SBS for Tiela
-    # do a 
     
-# 
+##SeSync side conversations: 
+
+# Git Workflows!!!!  
+# cloud/cluster workflow !!
+# HexStickers
+# Multi-core & clusters (npi?) integration for geospatial
+
     
+
+## Mini CLoud 
+https://lab.sesync.org/
+
