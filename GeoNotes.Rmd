@@ -1,0 +1,20 @@
+---
+title: "GeoNotes"
+author: "Megan Barnes"
+date: "02/04/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## GeoNotes
+
+Grid and raster can manipulate images  
+bbox - this is like the extent for vectors
+CRS - reference system
+sp objects use S4 conventions w/ slots
+sf objects are a df w/ specific str that incl. a geometry column
+sf allows for mixed objects --> points + lines + polygons
+Uses Well Known Text (WKT) & Well Known Binary (WKB) encoding 
